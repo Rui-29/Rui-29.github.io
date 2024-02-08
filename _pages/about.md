@@ -13,9 +13,9 @@ redirect_from:
 
 Recent news
 ======
-* The 
+* The paper [Expert Demonstration Collection of Long-Horizon Construction Tasks in Virtual Reality](https://ascelibrary.org/doi/abs/10.1061/9780784485231.029) was published in Computing in Civil Engineering 2023. (Jan 25, 2024)
+* The paper [Enhancing construction robot learning for collaborative and long-horizon tasks using generative adversarial imitation learning](https://doi.org/10.1016/j.aei.2023.102140) was published in Advanced Engineering Informatics. (Oct 1, 2023)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
