@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download my CV](https://www.linkedin.com/in/rui-li-28a75a1a7/)
 
 Education
 ======
