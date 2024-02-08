@@ -15,4 +15,3 @@ Recent news
 ======
 * The paper [Expert Demonstration Collection of Long-Horizon Construction Tasks in Virtual Reality](https://ascelibrary.org/doi/abs/10.1061/9780784485231.029) was published in Computing in Civil Engineering 2023. (Jan 25, 2024)
 * The paper [Enhancing construction robot learning for collaborative and long-horizon tasks using generative adversarial imitation learning](https://doi.org/10.1016/j.aei.2023.102140) was published in Advanced Engineering Informatics. (Oct 1, 2023)
-![Editing a markdown file for a talk](/images/editing-talk.png)
