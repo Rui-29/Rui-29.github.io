@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am a research student at [ICON lab](https://intelconstructlab.github.io/index.html) in the [Department of Civil Engineering](https://civil.ubc.ca/), [University of British Columbia](https://www.ubc.ca/).
-* My current research interests are leveraging machine learning techniques to achieve intelligent building operation and construction. For operation, I care about reinforcement learning-based control to achieve both energy efficiency and indoor environment quality. For construction, I pursue reinforcement learning-based construction robot control.
+* My current research interests are leveraging machine learning techniques to achieve intelligent building operation and construction. For operation, I care about demand-responsive control, building energy efficiency, and indoor environment quality. For construction, I pursue reinforcement learning-based construction robot control.
 
 Recent news
 ======
