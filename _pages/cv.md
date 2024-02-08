@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 Sep ~ 2022 May: Ph.D. Candidate, Research Assistant, Teaching Assistant
+  * Korea Advanced Institute of Science & Technology (KAIST)
+  * Duties included: Participated in four Korea National Projects
+  * Supervisor: Professor Seongju Chang
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,12 +29,24 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * C#
+  * Matlab
+* Machine Learning
+  * Reinforcement Learning
+  * Imitation Learning
+  * Transformers
+  * Data Mining
+* Energy Simulation
+  * EnergyPlus
+  * DesignBuilder
+  * SketchUp
+  * OpenStudio
+  * Rhinos
+* Virtual Reality & Robot Simulation
+  * Unity Engine
+  * Pybullet
 
 Publications
 ======
