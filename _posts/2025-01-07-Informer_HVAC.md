@@ -3,9 +3,9 @@ layout: post
 title: How far back shall we peer?
 subtitle: Optimal air handling unit control leveraging extensive past observations
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/thumb_Informer_HVAC.jpg
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [Journal, HVAC control]
 author: Rui Li and Zhengbo Zou
 ---
 
