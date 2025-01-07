@@ -25,8 +25,9 @@ navbar-links:
     - Building technology: "https://www.markdowntutorial.com/"
     - Construction robotics: "https://www.markdowntutorial.com/"
     - Machine learning: "https://beautifuljekyll.com"
+    - Language learning: "https://beautifuljekyll.com"
   # Author's home: "https://deanattali.com"
-
+  
 ################
 # --- Logo --- #
 ################
