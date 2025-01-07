@@ -51,16 +51,18 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "ruili29@student.ubc.ca"
-  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  linkedin: ruili
+  google-scholar: your google scholar
+  ORCID: your ORCID ID
   github: Rui-29
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # facebook: deanattali
+  # twitter: daattali
+  # patreon: DeanAttali
+  # youtube: "@daattali"
+  # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -74,8 +76,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
