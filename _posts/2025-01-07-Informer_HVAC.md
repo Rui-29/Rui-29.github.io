@@ -2,7 +2,7 @@
 layout: post
 title: How far back shall we peer?
 subtitle: Optimal air handling unit control leveraging extensive past observations
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/Informer_HVAC_cover.jpg
 thumbnail-img: /assets/img/thumb_Informer_HVAC.jpg
 share-img: /assets/img/path.jpg
 tags: [Journal, HVAC control]
