@@ -23,7 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Machine learning: "https://beautifuljekyll.com"
-    - Building information modeling: "https://www.markdowntutorial.com/"
+    - Building technology: "https://www.markdowntutorial.com/"
+    - Construction robotics: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
 
 ################
