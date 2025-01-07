@@ -8,7 +8,7 @@ I am a PhD student at [The University of British Columbia](https://www.ubc.ca/),
 ### Research interest
 Leveraging machine learning techniques to achieve intelligent building **operation** and **construction**. For **operation**, I care about demand-responsive control, building energy efficiency, and indoor environment quality. For **construction**, I pursue reinforcement learning-based construction robot control.
 ### Updates
-**Jan 2025** | I was hired as a student researcher by the [Construction Research Centre](https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/construction-research-centre), [the National Research Council of Canada](https://nrc.canada.ca/en).
-**Dec 2024** | One paper "[How far back shall we peer? Optimal air handling unit control leveraging extensive past observations](https://doi.org/10.1016/j.buildenv.2024.112347)" was accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment).
-**Sep 2024** | I started my second PhD journey at the University of British Columbia in Vancouver, Canada.
-**May 2024** | I earned my [Master of Applied Science (MASc) in Civil Engineering](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-civil-engineering) from the University of British Columbia, Vancouver, Canada.
+**Jan 2025** | I was hired as a student researcher by the [Construction Research Centre](https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/construction-research-centre), [the National Research Council of Canada](https://nrc.canada.ca/en).  
+**Dec 2024** | One paper "[How far back shall we peer? Optimal air handling unit control leveraging extensive past observations](https://doi.org/10.1016/j.buildenv.2024.112347)" was accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment).  
+**Sep 2024** | I started my second PhD journey at the University of British Columbia in Vancouver, Canada.    
+**May 2024** | I earned my [Master of Applied Science (MASc) in Civil Engineering](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-civil-engineering) from the University of British Columbia, Vancouver, Canada.  
