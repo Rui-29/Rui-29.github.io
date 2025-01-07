@@ -13,7 +13,7 @@ I'm thrilled to share that my latest research, titled "How Far Back Shall We Pee
 
 This study introduces a novel deep reinforcement learning (RL) framework for optimizing Heating, Ventilation, and Air Conditioning (HVAC) systems, integrating historical data insights for improved energy efficiency and occupant comfort.
 
-Key highlights:
+Key highlights:  
 ✅ Proposed a Transformer-based HVAC modeling approach for multi-objective RL control.  
 ✅ Trained the model with five years of high-resolution, real-world HVAC data, capturing long-term temporal patterns.  
 ✅ Demonstrated that full cycles of historical HVAC operational data significantly enhance RL performance.  
