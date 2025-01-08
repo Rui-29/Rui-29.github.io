@@ -17,6 +17,10 @@ Leveraging machine learning techniques to achieve intelligent building **operati
 **Aug 2023** | One paper "[Enhancing construction robot learning for collaborative and long-horizon tasks using generative adversarial imitation learning](https://doi.org/10.1016/j.aei.2023.102140)" was accepted by [Advanced Engineering Informatics](https://www.sciencedirect.com/journal/advanced-engineering-informatics).  
 **Sep 2022** | I was the recipient of the [CITech Fellowship](https://citech.ubc.ca/) at UBC.  
 **Sep 2022** | I started my [Master of Applied Science (MASc) in Civil Engineering](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-civil-engineering) at the University of British Columbia, Vancouver.  
-**May 2022** | I voluntarily withdrew from my PhD program at KAIST to explore broader opportunities and pursue higher-impact research aligned with my long-term career goals.  
+**May 2022** | I voluntarily withdrew from my PhD program at KAIST to explore broader opportunities and pursue higher-impact research aligned with my long-term career goals. During my time in the program, I completed ten courses and achieved a GPA of 90.22/100.  
 **Jul 2020** | I passed the [PhD qualification examination](https://bioeng.kaist.ac.kr/?module=file&act=procFileDownload&file_srl=15993&sid=907667f7a5cfa1545d0b4dc9e34af5f1&module_srl=205) and became a PhD candidate.  
-**Sep 2019** | I started my first PhD journey at the [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/).
+**Oct 2019** | I earned my MSC from CityU of HK. I completed my master's thesis ""  
+**Sep 2019** | I started my first PhD journey at the [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/).  
+**Sep 2018** | I started my [Master of Science in Civil and Architectural Engineering](https://www.cityu.edu.hk/pg/programme/p60) at [City University of Hong Kong](https://www.cityu.edu.hk/).  
+**Jun 2018** | I earned my Bachelor of Science in Civil Engineering from [Beijing Jiaotong University](https://en.bjtu.edu.cn/). I completed my master's thesis ""  
+**Jun 2014** | I got the top [1.17% （1900/162600）](https://gaokao.eol.cn/xin_jiang/dongtai/201407/t20140718_1151951.shtml) in the 2014 [Gaokao](https://en.wikipedia.org/wiki/Gaokao#:~:text=The%20Nationwide%20Unified%20Examination%20for,China%2C%20held%20in%20early%20June.) (Chinese National College Entrance Examination).  
