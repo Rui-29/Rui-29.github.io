@@ -13,7 +13,7 @@ Heating, Ventilation, and Air Conditioning (HVAC) systems are at the heart of en
 In my latest research, I explored how Reinforcement Learning (RL) can revolutionize HVAC system optimization. Unlike traditional methods, RL offers adaptability and operates without the need for explicit models. However, RL's application to HVAC systems has been limited by challenges like sample inefficiency and suboptimal convergence, particularly when accounting for HVAC's delayed effects and prolonged thermal inertia.  
 
 To overcome these challenges, I developed an innovative deep RL framework that integrates historical observations to enhance RL agent performance. At the core of this framework is a state-of-the-art Transformer model, which excels in capturing temporal patterns in HVAC data. This enables the creation of a more precise RL training environment.  
-
+![Crepe](https://beautifuljekyll.com/assets/img/thumb_Informer_HVAC.jpg){: .mx-auto.d-block :}
 When tested on high-resolution, real-world HVAC datasets, the framework delivered satisfactory results:  
 - **Prediction Accuracy**: Achieved a 30.5% and 35.8% improvement over Bi-LSTM and vanilla Transformer models, respectively.  
 - **Energy Efficiency**: Realized a 35.3% reduction in electricity consumption compared to RBFC systems.  
