@@ -14,7 +14,7 @@ In my latest research, I explored how Reinforcement Learning (RL) can revolution
 
 To overcome these challenges, I developed an innovative deep RL framework that integrates historical observations to enhance RL agent performance. At the core of this framework is a state-of-the-art Transformer model, which excels in capturing temporal patterns in HVAC data. This enables the creation of a more precise RL training environment.  
 
-![Overall_architecture](https://beautifuljekyll.com/assets/img/thumb_Informer_HVAC.jpg){: .mx-auto.d-block :}
+![Overall_architecture](https://Rui-29.github.io/assets/img/thumb_Informer_HVAC.jpg){: .mx-auto.d-block :}
 
 When tested on high-resolution, real-world HVAC datasets, the framework delivered satisfactory results:  
 - **Prediction Accuracy**: Achieved a 30.5% and 35.8% improvement over Bi-LSTM and vanilla Transformer models, respectively.  
