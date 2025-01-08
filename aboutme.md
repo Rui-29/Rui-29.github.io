@@ -22,5 +22,5 @@ Leveraging machine learning techniques to achieve intelligent building **operati
 **Oct 2019** | I earned my MSC from CityU of HK. I completed my master's thesis ""  
 **Sep 2019** | I started my first PhD journey at the [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/).  
 **Sep 2018** | I started my [Master of Science in Civil and Architectural Engineering](https://www.cityu.edu.hk/pg/programme/p60) at [City University of Hong Kong](https://www.cityu.edu.hk/).  
-**Jun 2018** | I earned my Bachelor of Science in Civil Engineering from [Beijing Jiaotong University](https://en.bjtu.edu.cn/). I completed my master's thesis ""  
+**Jun 2018** | I earned my Bachelor of Science in Civil Engineering from [Beijing Jiaotong University](https://en.bjtu.edu.cn/).
 **Jun 2014** | I got the top 1.17% （1860/162600） in the 2014 [Gaokao](https://en.wikipedia.org/wiki/Gaokao#:~:text=The%20Nationwide%20Unified%20Examination%20for,China%2C%20held%20in%20early%20June.) (Chinese National College Entrance Examination).  
