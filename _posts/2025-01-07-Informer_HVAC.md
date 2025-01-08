@@ -5,7 +5,7 @@ subtitle: Optimal air handling unit control leveraging extensive past observatio
 cover-img: /assets/img/Systeme-HVAC-scaled.jpeg
 thumbnail-img: /assets/img/thumb_Informer_HVAC.jpg
 share-img: /assets/img/path.jpg
-tags: [Journal, HVAC control]
+tags: [HVAC control, Reinforcement Learning, Transformer, Journal]
 author: Rui Li and Zhengbo Zou
 ---
 Heating, Ventilation, and Air Conditioning (HVAC) systems are at the heart of ensuring comfort and energy efficiency in buildings. Traditional Rule-Based Feedback Control (RBFC) systems, though simple and widely used, often lack adaptability to dynamic environments. Model Predictive Control (MPC) methods, while more advanced, require complex mathematical modeling and expert knowledge, posing significant barriers to design and optimization.  
