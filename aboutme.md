@@ -6,7 +6,7 @@ subtitle: ruili29 at student dot ubc dot ca
 I am a PhD student at [The University of British Columbia, Vancouver](https://www.ubc.ca/), affiliated with [SBE@UBC](https://sbelab.forestry.ubc.ca/) and under the supervision of Professor [Haibo Feng](https://forestry.ubc.ca/faculty-profile/haibo-feng/). I am also a student researcher at the [National Research Council of Canada](https://nrc.canada.ca/en), affiliated with the [Construction Research Centre](https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/construction-research-centre).
 
 ### Research interest
-Leveraging machine learning techniques to achieve intelligent building **operation** and **construction**. For **operation**, I care about demand-responsive control, building energy efficiency, and indoor environment quality. For **construction**, I pursue reinforcement learning-based construction robot control.
+Leveraging machine learning techniques to achieve intelligent building **operation** and **construction**. For **operation**, I care about demand-responsive and occupant-centric control, building energy efficiency, and indoor environment quality. For **construction**, I pursue reinforcement learning-based construction robot control.
 ### Updates
 **Jan 2025** | I was hired as a student researcher by the Construction Research Centre, the National Research Council of Canada.  
 **Dec 2024** | One paper "[How far back shall we peer? Optimal air handling unit control leveraging extensive past observations](https://doi.org/10.1016/j.buildenv.2024.112347)" was accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment).  
