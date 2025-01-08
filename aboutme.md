@@ -17,3 +17,5 @@ Leveraging machine learning techniques to achieve intelligent building **operati
 **Aug 2023** | One paper "[Enhancing construction robot learning for collaborative and long-horizon tasks using generative adversarial imitation learning](https://doi.org/10.1016/j.aei.2023.102140)" was accepted by [Advanced Engineering Informatics](https://www.sciencedirect.com/journal/advanced-engineering-informatics).  
 **Sep 2022** | I was the recipient of the [CITech Fellowship](https://citech.ubc.ca/) at UBC.  
 **Sep 2022** | I started my [Master of Applied Science (MASc) in Civil Engineering](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-civil-engineering) at the University of British Columbia, Vancouver.  
+**May 2022** | I voluntarily withdrew from my PhD program at KAIST to explore broader opportunities and pursue higher-impact research aligned with my long-term career goals.
+**Jul 2020** | I passed the [PhD qualification examination](https://bioeng.kaist.ac.kr/?module=file&act=procFileDownload&file_srl=15993&sid=907667f7a5cfa1545d0b4dc9e34af5f1&module_srl=205) and became a PhD candidate.  
