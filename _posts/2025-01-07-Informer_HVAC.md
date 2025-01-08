@@ -23,6 +23,6 @@ When tested on high-resolution, real-world HVAC datasets, the framework delivere
 - **Energy Efficiency**: Realized a 35.3% reduction in electricity consumption compared to RBFC systems.  
 - **Thermal Comfort**: Improved occupant comfort by 54.4%.  
 
-These results demonstrate the transformative potential of integrating historical data and advanced machine learning techniques into HVAC system optimization. My research showcases how modern AI technologies, like RL and Transformers, can make our buildings smarter, more efficient, and more comfortable.  
+These results demonstrate the transformative potential of integrating historical data and advanced machine learning techniques into HVAC system optimization. My research showcases how modern AI technologies, like RL and Transformers, can make our buildings smarter, more efficient, and more comfortable. Click [here](https://doi.org/10.1016/j.buildenv.2024.112347) for the full paper.  
 
 Stay tuned for more updates on leveraging technology to drive sustainability and innovation in the built environment! 
