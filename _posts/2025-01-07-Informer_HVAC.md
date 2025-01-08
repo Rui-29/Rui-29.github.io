@@ -16,6 +16,8 @@ To overcome these challenges, I developed an innovative deep RL framework that i
 
 ![Overall_architecture](https://Rui-29.github.io/assets/img/thumb_Informer_HVAC.jpg){: .mx-auto.d-block :}
 
+In the framework, the process begins with stage a, where we collect HVAC variables from the BAS database. These variables are then preprocessed and categorized into states, actions, and rewards. Progressing to stage b, this structured dataset is employed to train the RL environment model. The model is designed to use both past and current state-action pairs to predict the subsequent step state and reward. In the final stage c, by considering both historical and immediate observations, our RL agent interacts with the environment and executes actions strategically to optimize the dual objectives of energy saving and thermal comfort.  
+
 When tested on high-resolution, real-world HVAC datasets, the framework delivered satisfactory results:  
 - **Prediction Accuracy**: Achieved a 30.5% and 35.8% improvement over Bi-LSTM and vanilla Transformer models, respectively.  
 - **Energy Efficiency**: Realized a 35.3% reduction in electricity consumption compared to RBFC systems.  
