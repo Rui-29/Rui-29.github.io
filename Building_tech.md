@@ -12,5 +12,4 @@ Papers/Seminars that I think worth a reading/listening are also listed.
 
 
 ### Papers
-
 **Jan 2025** | EnergyPlus  
