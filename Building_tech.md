@@ -1,0 +1,27 @@
+---
+layout: page
+title: Rui Li 李睿
+subtitle: ruili29 at student dot ubc dot ca
+---
+I am a PhD student at [The University of British Columbia, Vancouver](https://www.ubc.ca/), affiliated with [SBE@UBC](https://sbelab.forestry.ubc.ca/) and under the supervision of Professor [Haibo Feng](https://forestry.ubc.ca/faculty-profile/haibo-feng/). I am also a student researcher at the [National Research Council of Canada](https://nrc.canada.ca/en), affiliated with the [Construction Research Centre](https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/construction-research-centre).
+
+### Research interest
+Leveraging machine learning techniques to achieve intelligent building **operation** and **construction**. For **operation**, I care about demand-responsive and occupant-centric control, building energy efficiency, and indoor environment quality. For **construction**, I pursue reinforcement learning and imitation learning-based construction robot control.
+### Updates
+**Jan 2025** | I was hired as a student researcher by the Construction Research Centre, the National Research Council of Canada.  
+**Dec 2024** | One paper "[How far back shall we peer? Optimal air handling unit control leveraging extensive past observations](https://doi.org/10.1016/j.buildenv.2024.112347)" was accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment).  
+**Sep 2024** | I was the recipient of the [President’s Academic Excellence Initiative PhD Award](https://www.grad.ubc.ca/awards/presidents-academic-excellence-initiative-phd-award) at UBC.  
+**Sep 2024** | I started my second PhD journey at UBC.  
+**May 2024** | I earned my MASc from UBC. Under the guidance of Professor [Zhengbo Zou](https://www.civil.columbia.edu/content/zhengbo-zou), I completed my master's thesis titled "[Integrated optimization of energy systems in buildings: from demand responsive battery storage to intelligent HVAC control](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0441350)", achieving a grade of A+.  
+**Jan 2024** | One paper "[Expert Demonstration Collection of Long-Horizon Construction Tasks in Virtual Reality](https://ascelibrary.org/doi/abs/10.1061/9780784485231.029)" was published in [Computing in Civil Engineering 2023](https://ascelibrary.org/doi/book/10.1061/9780784485231).  
+**Aug 2023** | One paper "[Enhancing construction robot learning for collaborative and long-horizon tasks using generative adversarial imitation learning](https://doi.org/10.1016/j.aei.2023.102140)" was accepted by [Advanced Engineering Informatics](https://www.sciencedirect.com/journal/advanced-engineering-informatics).  
+**Sep 2022** | I was the recipient of the [CITech Fellowship](https://citech.ubc.ca/) at UBC.  
+**Sep 2022** | I started my [Master of Applied Science (MASc) in Civil Engineering](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-civil-engineering) at [ICON](https://intelconstructlab.github.io/) lab, the University of British Columbia, Vancouver.  
+**May 2022** | I voluntarily withdrew from my PhD program at KAIST to explore broader opportunities and pursue higher-impact research aligned with my long-term career goals. During my time in the program, I completed ten courses with a GPA of 90.22/100.  
+**Jul 2020** | I passed the [PhD qualification examination](https://bioeng.kaist.ac.kr/?module=file&act=procFileDownload&file_srl=15993&sid=907667f7a5cfa1545d0b4dc9e34af5f1&module_srl=205) and became a PhD candidate.  
+**Oct 2019** | I earned my MSc from CityUHK. Under the supervision of Professor [Hin Wa Li](https://scholars.cityu.edu.hk/en/persons/hin-wa-li(7b9b06ca-724b-4ec9-9429-bdf6b5d41c71).html), I completed my master's thesis titled "Towards Net-Zero Energy: Deep Learning-Based Energy Consumption Prediction and Photovoltaic Strategy Optimization for Subtropical School Buildings", achieving a grade of A-.  
+**Sep 2019** | I was the recipient of the [Korean National Scholarship Tier 1](https://www.kaist.ac.kr/en/html/edu/03100502.html) at KAIST.  
+**Sep 2019** | I started my first PhD journey at the [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/).  
+**Sep 2018** | I started my [Master of Science in Civil and Architectural Engineering](https://www.cityu.edu.hk/pg/programme/p60) at [City University of Hong Kong](https://www.cityu.edu.hk/).  
+**Jun 2018** | I earned my Bachelor of Science in Civil Engineering from [Beijing Jiaotong University](https://en.bjtu.edu.cn/).  
+**Jun 2014** | Graduated from [Urumqi No.1 High School](https://www.isacteach.com/top-600-high-schools-in-china/#:~:text=20,1%20High%20School), I achieved a top 1.17% ranking (1900 out of 162,600) in the 2014 [Gaokao](https://en.wikipedia.org/wiki/Gaokao) (Chinese National College Entrance Examination).  
