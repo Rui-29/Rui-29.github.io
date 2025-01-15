@@ -4,11 +4,12 @@ title: BUILDING TECHNOLOGY
 subtitle: ENERGY MODELING
 ---
 This page is for collecting tech-resources related to building modeling and object oriented programming (OOP) - modeling integration.
-Papers that I think worth a reading are also listed.
+Papers/Seminars that I think worth a reading/listening are also listed.
 
 ### Tech-resources
 
  **EnergyPlus** and **Python integration**.  
+
 
 ### Papers
 
