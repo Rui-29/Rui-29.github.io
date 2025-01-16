@@ -18,10 +18,10 @@ This page is for collecting tech-resources related to **ML and its applications*
 * [nn.ModuleList](https://pytorch.org/docs/stable/generated/torch.nn.ModuleList.html) has more freedom than [nn.Sequential](https://pytorch.org/docs/stable/generated/torch.nn.Sequential.html), and can implement append.
     
     **Comments**: powerful lightweight yet high fidelity simulation engine, better to utilize its efficiency in integrative control (e.g., serve as RL env). Better to combine with 3D modeling tools and more user-friendly interface to accelerate modeling speed (actually OpenStudio + SketchUp plugins is exactly for this).  
-    
 **MPC** | [Model predictive control](https://youtu.be/8BHMsKXlRq0?si=Ww5S014JPm5Qz0vC) together with [shorter intro](https://youtu.be/YwodGM2eoy4?si=8ocz0FNhjLSE8f6s).  
+**Model-based RL** |  
+**Model-based RL** |  
 
-**Model-based RL** |   
 
 ### Papers/Seminars
 **Jul 2021** | [GNN env based RL?](https://dl.acm.org/doi/abs/10.1145/3632775.3661957).  
