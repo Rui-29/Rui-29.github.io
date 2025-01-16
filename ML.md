@@ -33,4 +33,4 @@ This page is for collecting tech-resources related to **ML and its applications*
 ### Papers/Seminars
 **Jul 2021** | [GNN env based RL?](https://dl.acm.org/doi/abs/10.1145/3632775.3661957).  
     **Notes**: python is great in enhancing the ability from data processing to time-series forecasting, till the sophisticated control.
-**Jul 2021** | [Spatiotemporal](https://www.sciencedirect.com/topics/computer-science/spatiotemporal-graph).  
+**Jul 2021** | [Spatiotemporal](https://www.sciencedirect.com/topics/computer-science/spatiotemporal-graph). And also a [video](https://youtu.be/RRMU8kJH60Q?si=Wrd2r0FIsHroQvgM)
