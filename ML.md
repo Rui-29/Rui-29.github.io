@@ -7,6 +7,7 @@ This page is for collecting tech-resources related to **ML and its applications*
 **Papers/Seminars** that I think worth a reading/listening are also listed.
 
 ### Tech-resources
+***GitHub*** | [All you need to know](https://youtu.be/rE2zRhZdjFU?si=aso4tbKCW44fIzjo), as well as [resolve merge conflicts](https://youtu.be/xNVM5UxlFSA?si=HNujkfm3R7DHeGoJ).  
 ***GNN & PyG*** | [GNN using Pytorch Geometric | coding from Stanford](https://youtu.be/-UjytpbqX4A?si=UMotffD0bpDXo4fy) together with official tutorial of [Pytorch](https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html) & [PyG](https://pytorch-geometric.readthedocs.io/en/latest/get_started/introduction.html). Also, animation for GNN intro [[short]](https://youtu.be/epVW0_iVBX8?si=OXILHRrtdLSxkGsu) [[well detailed]](https://youtu.be/GXhBEj1ZtE8?si=HO35GR0cgprNJqy9) and [Microsoft](https://www.youtube.com/watch?v=zCEYiCxrL_0&t=2s). Basically it is dealing with multi-dimensional info, applied to material science, drug development, social networks, but also beyond...     
 ***Notes***:  
 * The overall Pytorch workflow is to class a network, define parameters and forward functions. Remember to add ***self.*** Before parameter, otherwise it won't be added to parameter lists.  
