@@ -9,7 +9,11 @@ This page is for collecting tech-resources related to **ML and its applications*
 ### Tech-resources
 ***GitHub*** | [All you need to know](https://youtu.be/rE2zRhZdjFU?si=aso4tbKCW44fIzjo), as well as [resolve merge conflicts](https://youtu.be/xNVM5UxlFSA?si=HNujkfm3R7DHeGoJ).  
 ***Notes***:  
-* Configuring Git with '*git config*', Initializing a Git Repository with *git init*,  
+* Configuring Git with '*git config*', initializing a Git Repository with *git init*, checking Repository Status with 'git status'.  
+* Cloning a Repository with 'git clone', Creating and Staging Files with 'git add .', create and switch branch at the same time 'git branch' git checkout -b NAME.  
+* Switching Between Branches with 'git switch', Pushing Changes to a Remote Repository with 'git push' (repo name)(branch name). Updating Local Repository with 'git pull'.
+* better ask coworkers before pull request and merge your branch to the main, Viewing Change History with 'git show', Deleting Branches Locally and Remotely: git branch –d branch name to delete locally, git push -delete origin branch.  
+* Merge the conflict is important, Git merge branch name (-- abort), three options: Accept current/incoming/both change.  
 
 ***GNN & PyG*** | [GNN using Pytorch Geometric | coding from Stanford](https://youtu.be/-UjytpbqX4A?si=UMotffD0bpDXo4fy) together with official tutorial of [Pytorch](https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html) & [PyG](https://pytorch-geometric.readthedocs.io/en/latest/get_started/introduction.html). Also, animation for GNN intro [[short]](https://youtu.be/epVW0_iVBX8?si=OXILHRrtdLSxkGsu) [[well detailed]](https://youtu.be/GXhBEj1ZtE8?si=HO35GR0cgprNJqy9) and [Microsoft](https://www.youtube.com/watch?v=zCEYiCxrL_0&t=2s). Basically it is dealing with multi-dimensional info, applied to material science, drug development, social networks, but also beyond...     
 ***Notes***:  
