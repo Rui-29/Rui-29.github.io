@@ -12,7 +12,7 @@ This page is for collecting tech-resources related to **ML and its applications*
     **Notes**:  
 * The overall Pytorch workflow is to class a network, define parameters and forward functions. Remember to add *self.* Before parameter, otherwise it won't be added to parameter lists.  
 * Training metric (loss) need to be differentiable, but evaluation metric no need, sklearn have a lot evaluation metrics already, no need to hand write.  
-* The precision is the ratio *tp / (tp + fp), recall tp / (tp + fn)*, f1 score search online, all of these are 1 best 0 worst.  
+* The precision is the ratio *tp / (tp + fp), recall tp / (tp + fn)*, F1 score: ![Alt](https://Rui-29.github.io/assets/img/f1_score.webp "f1_score"), all of these are 1 best 0 worst.  
 * [PyG officla website](https://pytorch-geometric.readthedocs.io/en/latest/get_started/introduction.html), [TensorboardX](https://github.com/lanpa/tensorboardX) for tracking torch training process.   
 
     **Comments**: powerful lightweight yet high fidelity simulation engine, better to utilize its efficiency in integrative control (e.g., serve as RL env). Better to combine with 3D modeling tools and more user-friendly interface to accelerate modeling speed (actually OpenStudio + SketchUp plugins is exactly for this).  
