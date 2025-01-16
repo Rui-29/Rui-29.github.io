@@ -17,8 +17,8 @@ This page is for collecting tech-resources related to **ML and its applications*
 * The precision is the ratio ***tp / (tp + fp)***, recall ***tp / (tp + fn)***, F1 score: ***2 * precision * recall/(precision+recall)***, all of these are 1 best 0 worst.  
 * [TensorboardX](https://github.com/lanpa/tensorboardX) for tracking torch training process, [sklearn manifold](https://scikit-learn.org/stable/modules/manifold.html) for dimensional reduction, with its [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html) for high dimension data visualization.  
 * [nn.ModuleList](https://pytorch.org/docs/stable/generated/torch.nn.ModuleList.html) has more freedom than [nn.Sequential](https://pytorch.org/docs/stable/generated/torch.nn.Sequential.html), and can implement append.
-
-***Comments***: powerful lightweight yet high fidelity simulation engine, better to utilize its efficiency in integrative control (e.g., serve as RL env). Better to combine with 3D modeling tools and more user-friendly interface to accelerate modeling speed (actually OpenStudio + SketchUp plugins is exactly for this).  
+* [Spatiotemporal GNN](https://www.sciencedirect.com/topics/computer-science/spatiotemporal-graph). And also a [video](https://youtu.be/RRMU8kJH60Q?si=Wrd2r0FIsHroQvgM)
+***Comments***: powerful 
 
 ***MPC*** | [Model predictive control implementation](https://youtu.be/8BHMsKXlRq0?si=Ww5S014JPm5Qz0vC), together with a [short intro](https://youtu.be/YwodGM2eoy4?si=8ocz0FNhjLSE8f6s) by [Steven L. Brunton](https://scholar.google.com/citations?user=TjzWdigAAAAJ&hl=en).  
 ***Notes***:  
