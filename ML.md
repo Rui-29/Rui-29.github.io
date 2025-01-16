@@ -19,6 +19,8 @@ This page is for collecting tech-resources related to **ML and its applications*
 
 **MPC** | [Model predictive control](https://youtu.be/8BHMsKXlRq0?si=Ww5S014JPm5Qz0vC) together with [shorter intro](https://youtu.be/YwodGM2eoy4?si=8ocz0FNhjLSE8f6s).  
 
+**Model-based RL** |   
+
 ### Papers/Seminars
 **Jul 2021** | [IBPSA-Python Programming for Energy Modelers](https://www.youtube.com/live/lDN_nybJq20?si=cAvhqDLQWy8ZZdAv) by [Clayton Miller](https://scholar.google.ch/citations?user=akL857IAAAAJ&hl=en).  
     **Notes**: python is great in enhancing the ability from data processing to time-series forecasting, till the sophisticated control.
