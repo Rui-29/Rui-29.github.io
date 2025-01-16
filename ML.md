@@ -17,7 +17,7 @@ This page is for collecting tech-resources related to **ML and its applications*
 
 ***Comments***: powerful lightweight yet high fidelity simulation engine, better to utilize its efficiency in integrative control (e.g., serve as RL env). Better to combine with 3D modeling tools and more user-friendly interface to accelerate modeling speed (actually OpenStudio + SketchUp plugins is exactly for this).  
 
-***MPC*** | [Model predictive control](https://youtu.be/8BHMsKXlRq0?si=Ww5S014JPm5Qz0vC), together with a [shorter intro](https://youtu.be/YwodGM2eoy4?si=8ocz0FNhjLSE8f6s) by [Steven L. Brunton](https://scholar.google.com/citations?user=TjzWdigAAAAJ&hl=en).  
+***MPC*** | [Model predictive control implementation](https://youtu.be/8BHMsKXlRq0?si=Ww5S014JPm5Qz0vC), together with a [short intro](https://youtu.be/YwodGM2eoy4?si=8ocz0FNhjLSE8f6s) by [Steven L. Brunton](https://scholar.google.com/citations?user=TjzWdigAAAAJ&hl=en).  
 ***Notes***:  
 * Basic concept: strategy ***u*** at time ***k*** is the optimal short-time control starting at ***k***, applying to the system, and system will send updated states to MPC for the timestep ***k+1***.  
 * Strength: can compose constraints, work with nonlinear systems (can be linearize if needed). Cons: online, computational expensive as need to reschedule future horizons every step receiving feedbacks.
