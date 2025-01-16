@@ -8,7 +8,7 @@ This page is for collecting tech-resources related to **building modeling** and 
 **Papers/Seminars** that I think worth a reading/listening are also listed.
 
 ### Tech-resources
-**Mar 2024** | [EnergyPlus  Tutorial](https://youtu.be/j1foofH0eRw?si=w0iuGnrGr_jQKXRX)  
+***EnergyPlus*** | [Simulation tutorial](https://youtu.be/j1foofH0eRw?si=w0iuGnrGr_jQKXRX)  
 **Notes**:  
 * Open EP-lanuch.exe, Inputs to EnergyPlus are input data files (IDF) and weather file (epw). Weather file can be downloaded from [climate_onebuilding](https://climate.onebuilding.org/). "CTRL+L" can shrink IDF class list to existing ones.  
 * Tried Mac version, is a lite version and can't revise IDF files.
