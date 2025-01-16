@@ -23,5 +23,5 @@ This page is for collecting tech-resources related to **ML and its applications*
 **Model-based RL** |   
 
 ### Papers/Seminars
-**Jul 2021** | [IBPSA-Python Programming for Energy Modelers](https://www.youtube.com/live/lDN_nybJq20?si=cAvhqDLQWy8ZZdAv) by [Clayton Miller](https://scholar.google.ch/citations?user=akL857IAAAAJ&hl=en).  
+**Jul 2021** | [GNN env based RL?](https://dl.acm.org/doi/abs/10.1145/3632775.3661957).  
     **Notes**: python is great in enhancing the ability from data processing to time-series forecasting, till the sophisticated control.
