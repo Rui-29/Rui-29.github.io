@@ -3,12 +3,12 @@ layout: page
 title: MACHINE LEARNING
 subtitle: 
 ---
-This page is for collecting tech-resources related to **machine learning and its applications**.  
+This page is for collecting tech-resources related to **ML and its applications**.  
 
 **Papers/Seminars** that I think worth a reading/listening are also listed.
 
 ### Tech-resources
-**Jun 2020** | [Graph Neural Networks (GNN) using Pytorch Geometric | Stanford University](https://youtu.be/-UjytpbqX4A?si=UMotffD0bpDXo4fy)  
+**Jun 2020** | [GNN using Pytorch Geometric | Stanford University](https://youtu.be/-UjytpbqX4A?si=UMotffD0bpDXo4fy)  
 **Notes**:  
 * Open EP-lanuch.exe, Inputs to EnergyPlus are input data files (IDF) and weather file (epw). Weather file can be downloaded from [climate_onebuilding](https://climate.onebuilding.org/). "CTRL+L" can shrink IDF class list to existing ones.  
 * Geometry model can be drawn directly, but really troublesome. Thermal zones are first defined, following constructions and materials. Internal gains mainly include occupant, equipment and lighting, can edit schedule of them by adding new objs, then link to designated zones.  
