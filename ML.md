@@ -8,7 +8,7 @@ This page is for collecting tech-resources related to **ML and its applications*
 **Papers/Seminars** that I think worth a reading/listening are also listed.
 
 ### Tech-resources
-**GNN & PyG** | [GNN using Pytorch Geometric | Stanford University](https://youtu.be/-UjytpbqX4A?si=UMotffD0bpDXo4fy) together with [official tutorial](https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html). Also, animation for GNN intro [short](https://youtu.be/epVW0_iVBX8?si=OXILHRrtdLSxkGsu)[long](https://youtu.be/GXhBEj1ZtE8?si=HO35GR0cgprNJqy9) and [Microsoft](https://www.youtube.com/watch?v=zCEYiCxrL_0&t=2s). Basically it is dealing with multi-dimensional info, applied to material science, drug development, but also beyond...  
+**GNN & PyG** | [GNN using Pytorch Geometric | Stanford University](https://youtu.be/-UjytpbqX4A?si=UMotffD0bpDXo4fy) together with [official tutorial](https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html). Also, animation for GNN intro [short](https://youtu.be/epVW0_iVBX8?si=OXILHRrtdLSxkGsu)[long](https://youtu.be/GXhBEj1ZtE8?si=HO35GR0cgprNJqy9) and [Microsoft](https://www.youtube.com/watch?v=zCEYiCxrL_0&t=2s). Basically it is dealing with multi-dimensional info, applied to material science, drug development, social networks, but also beyond...  
     
 **Notes**:  
 * The overall Pytorch workflow is to class a network, define parameters and forward functions. Remember to add *self.* Before parameter, otherwise it won't be added to parameter lists.  
