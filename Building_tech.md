@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BUILDING TECHNOLOGY
-subtitle: ENERGY MODELING and PYTHON
+subtitle: ENERGY MODELING AND PYTHON
 ---
 This page is for collecting tech-resources related to **building modeling** and **object oriented programming (OOP)-modeling integration**.  
 
