@@ -20,7 +20,7 @@ This page is for collecting tech-resources related to **ML and its applications*
 ***MPC*** | [Model predictive control](https://youtu.be/8BHMsKXlRq0?si=Ww5S014JPm5Qz0vC), together with a [shorter intro](https://youtu.be/YwodGM2eoy4?si=8ocz0FNhjLSE8f6s) by [Steven L. Brunton](https://scholar.google.com/citations?user=TjzWdigAAAAJ&hl=en).  
 ***Notes***:  
 * Basic concept: strategy ***u*** at time ***k*** is the optimal short-time control starting at ***k***, applying to the system, and system will send updated states to MPC for the timestep ***k+1***.  
-* Strength: can compose constraints, work with nonlinear systems (can be linearize if needed), 
+* Strength: can compose constraints, work with nonlinear systems (can be linearize if needed). Cons: online, computational expensive as need to reschedule future horizons every step receiving feedbacks.
 
 **Model-based RL** |  
 **Model-based RL** |  
