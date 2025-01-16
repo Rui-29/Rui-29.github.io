@@ -15,7 +15,7 @@ This page is for collecting tech-resources related to **building modeling** and 
 * Infiltration is not intentional, air renovation and HVAC is intentional. Ideal loads are not consuming electricity but district thermal energy. Infitration is in *Zone Airflow*, should be set as opposite of HVAC schedule.  
 * Set output variables finally, can set output table style from *J* to *KWh*. RDD file has all possible output variables.  
 
-**Comments**: powerful lightweight simulation engine, better to utilize its efficiency in integrative control (e.g., serve as RL env). has to combine with 3D modeling tools and more user-friendly interface to accelerate modeling speed.
+**Comments**: powerful lightweight yet high fidelity simulation engine, better to utilize its efficiency in integrative control (e.g., serve as RL env). Better to combine with 3D modeling tools and more user-friendly interface to accelerate modeling speed (actually OpenStudio + SketchUp plugins is exactly for this).  
 
 ### Papers/Seminars
 **Jul 2021** | [IBPSA-Python Programming for Energy Modelers](https://www.youtube.com/live/lDN_nybJq20?si=cAvhqDLQWy8ZZdAv) by [Clayton Miller](https://scholar.google.ch/citations?user=akL857IAAAAJ&hl=en).  
