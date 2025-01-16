@@ -4,7 +4,6 @@ title: MACHINE LEARNING
 subtitle: 
 ---
 This page is for collecting tech-resources related to **ML and its applications**.  
-
 **Papers/Seminars** that I think worth a reading/listening are also listed.
 
 ### Tech-resources
