@@ -11,7 +11,8 @@ This page is for collecting tech-resources related to **building modeling** and 
 **Mar 2024** | [EnergyPlus  Tutorial](https://youtu.be/j1foofH0eRw?si=w0iuGnrGr_jQKXRX)  
 **Notes**:  
 * Open EP-lanuch.exe, Inputs to EnergyPlus are input data files (IDF) and weather file (epw). Weather file can be downloaded from [climate_onebuilding](https://climate.onebuilding.org/). "CTRL+L" can shrink IDF class list to existing ones.  
-* Geometry model can be drawn directly, but really troublesome. Thermal zones are first defined, following constructions and materials. Internal gains mainly include occupant, equipment and lighting, can edit schedule of them by adding new objs, then link to designated zones.  
+* Tried Mac version, is a lite version and can't revise IDF files.
+* Geometry model can be drawn directly (i.e., set original point and type vertex coordinates), but really troublesome. Thermal zones are first defined, following constructions and materials. Internal gains mainly include occupant, equipment and lighting, can edit schedule of them by adding new objs, then link to designated zones.  
 * Infiltration is not intentional, air renovation and HVAC is intentional. Ideal loads are not consuming electricity but district thermal energy. Infitration is in *Zone Airflow*, should be set as opposite of HVAC schedule.  
 * Set output variables finally, can set output table style from *J* to *KWh*. RDD file has all possible output variables.  
 
