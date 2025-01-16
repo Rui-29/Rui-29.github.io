@@ -21,9 +21,10 @@ This page is for collecting tech-resources related to **ML and its applications*
 ***Notes***:  
 * Basic concept: strategy ***u*** at time ***k*** is the optimal short-time control starting at ***k***, applying to the system, and system will send updated states to MPC for the timestep ***k+1***.  
 * Strength: can compose constraints, work with nonlinear systems (can be linearize if needed). Cons: online, computational expensive as need to reschedule future horizons every step receiving feedbacks.
+* A compromising way is to do linear parameter varying, but with computational speed boosting, directly handle nonlinear system is becoming feasible.
 
-**Model-based RL** |  
-**Model-based RL** |  
+**Model-based RL** |  let's goooo
+**Model-based RL** |  let's goooo
 
 
 ### Papers/Seminars
