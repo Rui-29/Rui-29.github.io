@@ -24,6 +24,9 @@ This page is for collecting tech-resources related to **building modeling** and 
 * Class MyControlSystem(EnergyPlusPlugin).  
 
 ***Hygrothermal simulation*** | [Simulation tutorial](https://youtu.be/j1foofH0eRw?si=w0iuGnrGr_jQKXRX)  
+**Notes**:  
+* There is a pyenergyplus.plugin in the EP folder.  
+* Class MyControlSystem(EnergyPlusPlugin).  
 
 ### Papers/Seminars
 **Jul 2021** | [IBPSA-Python Programming for Energy Modelers](https://www.youtube.com/live/lDN_nybJq20?si=cAvhqDLQWy8ZZdAv) by [Clayton Miller](https://scholar.google.ch/citations?user=akL857IAAAAJ&hl=en).  
