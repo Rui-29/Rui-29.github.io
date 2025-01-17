@@ -18,7 +18,7 @@ This page is for collecting tech-resources related to **building modeling** and 
 
 **Comments**: powerful lightweight yet high fidelity simulation engine, better to utilize its efficiency in integrative control (e.g., serve as RL env). Better to combine with 3D modeling tools and more user-friendly interface to accelerate modeling speed (actually OpenStudio + SketchUp plugins is exactly for this).  
 
-***EnergyPlus-python*** | [Plugin and co-simulation tutorial](https://youtu.be/si4sYe9Gktk?si=yvSMm2P3xQvECUAI) and [Chinese one](https://youtu.be/2CE7FGBxSeM?si=OXTw2xsvTr2wuuWJ). Libraries are [eppy]https://eppy.readthedocs.io/en/latest/readme.html and [offical explanation](https://energyplus.readthedocs.io/en/latest/python.html).  
+***EnergyPlus-python*** | [Plugin and co-simulation tutorial](https://youtu.be/si4sYe9Gktk?si=yvSMm2P3xQvECUAI) and [Chinese one](https://youtu.be/2CE7FGBxSeM?si=OXTw2xsvTr2wuuWJ). Libraries are [eppy](https://eppy.readthedocs.io/en/latest/readme.html) and [offical explanation](https://energyplus.readthedocs.io/en/latest/python.html).  
 **Notes**:  
 * There is a pyenergyplus.plugin in the EP folder.  
 * Class MyControlSystem(EnergyPlusPlugin).  
