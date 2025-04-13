@@ -8,6 +8,7 @@ I am a PhD student at [The University of British Columbia, Vancouver](https://ww
 ### Research interest
 Leveraging machine learning techniques to achieve intelligent building **operation** and **construction**. For **operation**, I care about demand-responsive and occupant-centric control, building energy efficiency, and indoor environment quality. For **construction**, I pursue reinforcement learning and imitation learning-based construction robot control.
 ### Updates
+**Apr 2025** | One paper "[Demand response based battery energy storage systems design and operation optimization](https://doi.org/10.1016/j.enbuild.2025.115738)" was accepted by [Energy and Buildings](https://www.sciencedirect.com/journal/energy-and-buildings).  
 **Jan 2025** | I was hired as a student researcher by the Construction Research Centre, the National Research Council of Canada.  
 **Dec 2024** | One paper "[How far back shall we peer? Optimal air handling unit control leveraging extensive past observations](https://doi.org/10.1016/j.buildenv.2024.112347)" was accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment).  
 **Sep 2024** | I was the recipient of the [President’s Academic Excellence Initiative PhD Award](https://www.grad.ubc.ca/awards/presidents-academic-excellence-initiative-phd-award) at UBC.  
