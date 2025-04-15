@@ -29,7 +29,7 @@ This study presents an integrated framework that connects medium-term electricit
 - Informer outperformed Bi-LSTM and vanilla Transformer models across all forecasting horizons, with up to 27% reduction in MSE.
 - The 30-day model significantly outperformed iterative 1-day forecasting for long-range prediction.
 - Optimization identified lithium-ion batteries as the most cost-effective and carbon-efficient BESS option.
-- For the three winter months analyzed: Electricity cost savings: **C$311,000**; CO₂-equivalent emission reduction: **471 tonnes**.  
+- For the three winter months analyzed: **C$311,000** electricity cost savings and **471 tonnes** CO₂-equivalent emission reduction.  
 
 ### Notes
 
