@@ -12,9 +12,7 @@ Our [new paper](https://doi.org/10.1016/j.enbuild.2025.115738) has been accepted
 
 ### Overview
 
-This study presents an integrated framework that connects medium-term electricity demand forecasting with the design and operation optimization of battery energy storage systems (BESS) under demand response (DR) programs.
-
-**Key motivations:**
+This study presents an integrated framework that connects medium-term electricity demand forecasting with the design and operation optimization of battery energy storage systems (BESS) under demand response (DR) programs. Key motivations:  
 - Most existing DR studies focus either on DR or BESS optimization, rarely integrating both in a realistic, data-driven way.
 - Short-term forecasting dominates current work, limiting extended planning horizons for electricity procurement and system control.
 
