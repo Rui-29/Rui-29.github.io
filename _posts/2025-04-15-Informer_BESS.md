@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [Demand Response, Battery Energy Storage Systems, Transformer, Journal]
 author: Rui Li, Qingshi Tu, Haibo Feng, and Zhengbo Zou
 ---
-Our [new paper](https://doi.org/10.1016/j.enbuild.2025.115738) has been accepted for publication in [Energy & Buildings](https://www.sciencedirect.com/journal/energy-and-buildings).  
+Our [new paper](https://doi.org/10.1016/j.enbuild.2025.115738) has been accepted for publication in [Energy & Buildings](https://www.sciencedirect.com/journal/energy-and-buildings)!  
 
 ### Overview
 
@@ -18,8 +18,6 @@ This study presents an integrated framework that connects medium-term electricit
 - Most existing DR studies focus either on DR or BESS optimization, rarely integrating both in a realistic, data-driven way.
 - Short-term forecasting dominates current work, limiting extended planning horizons for electricity procurement and system control.
 
----
-
 ### Method
 
 - Applied the Informer model for medium-term demand forecasting (up to 30 days) using real electricity usage data from 72 buildings.
@@ -27,7 +25,6 @@ This study presents an integrated framework that connects medium-term electricit
 - Used real-world urban-level data from ASHRAE 90.1-2010 climate zone 5 (Vancouver, Canada).
 
 ![Overall_architecture](https://Rui-29.github.io/assets/img/thumbnail_BESS.jpg){: .mx-auto.d-block :}  
----
 
 ### Results
 
@@ -44,5 +41,4 @@ This study presents an integrated framework that connects medium-term electricit
 ### Notes
 
 The framework is designed to be scalable to urban-scale implementation and can support extended planning for DR programs, predictive maintenance, and energy procurement. Future work could incorporate additional system integration (e.g., HVAC, PV) and more complex control strategies (e.g., RL-based control).  
-
 Stay tuned for more updates on leveraging technology to drive sustainability and innovation in the built environment!  
