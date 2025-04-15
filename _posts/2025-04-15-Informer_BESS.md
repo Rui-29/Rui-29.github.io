@@ -14,9 +14,9 @@ Our [new paper](https://doi.org/10.1016/j.enbuild.2025.115738) has been accepted
 
 This study presents an integrated framework that connects medium-term electricity demand forecasting with the design and operation optimization of battery energy storage systems (BESS) under demand response (DR) programs. Key motivations:  
 - Most existing DR studies focus either on DR or BESS optimization, rarely integrating both in a realistic, data-driven way.
-- Short-term forecasting dominates current work, limiting extended planning horizons for electricity procurement and system control.
+- Short-term forecasting dominates current work, limiting extended planning horizons for electricity procurement and system control.  
 
-### Method
+### Method  
 
 - Applied the Informer model for medium-term demand forecasting (up to 30 days) using real electricity usage data from 72 buildings.
 - Developed a Mixed-Integer Nonlinear Programming (MINLP) model to optimize BESS type, size, and hourly control under time-of-use pricing and carbon intensity constraints.
@@ -24,17 +24,12 @@ This study presents an integrated framework that connects medium-term electricit
 
 ![Overall_architecture](https://Rui-29.github.io/assets/img/thumbnail_BESS.jpg){: .mx-auto.d-block :}  
 
-### Results
+### Results  
 
 - Informer outperformed Bi-LSTM and vanilla Transformer models across all forecasting horizons, with up to 27% reduction in MSE.
 - The 30-day model significantly outperformed iterative 1-day forecasting for long-range prediction.
 - Optimization identified lithium-ion batteries as the most cost-effective and carbon-efficient BESS option.
-
-**For the three winter months analyzed:**
-- Electricity cost savings: **C$311,000**
-- CO₂-equivalent emission reduction: **471 tonnes**
-
----
+- For the three winter months analyzed: Electricity cost savings: **C$311,000**; CO₂-equivalent emission reduction: **471 tonnes**.  
 
 ### Notes
 
