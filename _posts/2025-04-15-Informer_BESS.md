@@ -2,27 +2,47 @@
 layout: post
 title: Demand Response-Based Battery Energy Storage Systems
 subtitle: Design and Operation Optimization
-cover-img: /assets/img/Systeme-HVAC-scaled.jpeg
-thumbnail-img: /assets/img/thumb_Informer_HVAC.jpg
+cover-img: /assets/img/BESS.png
+thumbnail-img: /assets/img/thumbnail_BESS.jpg
 share-img: /assets/img/path.jpg
-tags: [HVAC control, Reinforcement Learning, Transformer, Journal]
-author: Rui Li and Zhengbo Zou
+tags: [Demand Response, Battery Energy Storage Systems, Transformer, Journal]
+author: Rui Li, Qingshi Tu, Haibo Feng, and Zhengbo Zou
 ---
-Heating, Ventilation, and Air Conditioning (HVAC) systems are at the heart of ensuring comfort and energy efficiency in buildings. Traditional Rule-Based Feedback Control (RBFC) systems, though simple and widely used, often lack adaptability to dynamic environments. Model Predictive Control (MPC) methods, while more advanced, require complex mathematical modeling and expert knowledge, posing significant barriers to design and optimization.  
+Our [new paper](https://doi.org/10.1016/j.enbuild.2025.115738) has been accepted for publication in [Energy & Buildings](https://www.sciencedirect.com/journal/energy-and-buildings).  
 
-In my latest research, I explored how Reinforcement Learning (RL) can revolutionize HVAC system optimization. Unlike traditional methods, RL offers adaptability and operates without the need for explicit models. However, RL's application to HVAC systems has been limited by challenges like sample inefficiency and suboptimal convergence, particularly when accounting for HVAC's delayed effects and prolonged thermal inertia.  
+### Overview
 
-To overcome these challenges, I developed an innovative deep RL framework that integrates historical observations to enhance RL agent performance. At the core of this framework is a state-of-the-art Transformer model, which excels in capturing temporal patterns in HVAC data. This enables the creation of a more precise RL training environment.  
+This study presents an integrated framework that connects medium-term electricity demand forecasting with the design and operation optimization of battery energy storage systems (BESS) under demand response (DR) programs.
 
-![Overall_architecture](https://Rui-29.github.io/assets/img/thumb_Informer_HVAC.jpg){: .mx-auto.d-block :}
+**Key motivations:**
+- Most existing DR studies focus either on DR or BESS optimization, rarely integrating both in a realistic, data-driven way.
+- Short-term forecasting dominates current work, limiting extended planning horizons for electricity procurement and system control.
 
-In the framework, the process begins with stage a, where we collect HVAC variables from the BAS database. These variables are then preprocessed and categorized into states, actions, and rewards. Progressing to stage b, this structured dataset is employed to train the RL environment model. The model is designed to use both past and current state-action pairs to predict the subsequent step state and reward. In the final stage c, by considering both historical and immediate observations, our RL agent interacts with the environment and executes actions strategically to optimize the dual objectives of energy saving and thermal comfort.  
+---
 
-When tested on high-resolution, real-world HVAC datasets, the framework delivered satisfactory results:  
-- **Prediction Accuracy**: Achieved a 30.5% and 35.8% improvement over Bi-LSTM and vanilla Transformer models, respectively.  
-- **Energy Efficiency**: Realized a 35.3% reduction in electricity consumption compared to RBFC systems.  
-- **Thermal Comfort**: Improved occupant comfort by 54.4%.  
+### Method
 
-These results demonstrate the transformative potential of integrating historical data and advanced machine learning techniques into HVAC system optimization. My research showcases how modern AI technologies, like RL and Transformers, can make our buildings smarter, more efficient, and more comfortable. Click [here](https://doi.org/10.1016/j.buildenv.2024.112347) for the full paper.  
+- Applied the Informer model for medium-term demand forecasting (up to 30 days) using real electricity usage data from 72 buildings.
+- Developed a Mixed-Integer Nonlinear Programming (MINLP) model to optimize BESS type, size, and hourly control under time-of-use pricing and carbon intensity constraints.
+- Used real-world urban-level data from ASHRAE 90.1-2010 climate zone 5 (Vancouver, Canada).
 
-Stay tuned for more updates on leveraging technology to drive sustainability and innovation in the built environment! 
+![Overall_architecture](https://Rui-29.github.io/assets/img/thumbnail_BESS.jpg){: .mx-auto.d-block :}  
+---
+
+### Results
+
+- Informer outperformed Bi-LSTM and vanilla Transformer models across all forecasting horizons, with up to 27% reduction in MSE.
+- The 30-day model significantly outperformed iterative 1-day forecasting for long-range prediction.
+- Optimization identified lithium-ion batteries as the most cost-effective and carbon-efficient BESS option.
+
+**For the three winter months analyzed:**
+- Electricity cost savings: **C$311,000**
+- CO₂-equivalent emission reduction: **471 tonnes**
+
+---
+
+### Notes
+
+The framework is designed to be scalable to urban-scale implementation and can support extended planning for DR programs, predictive maintenance, and energy procurement. Future work could incorporate additional system integration (e.g., HVAC, PV) and more complex control strategies (e.g., RL-based control).  
+
+Stay tuned for more updates on leveraging technology to drive sustainability and innovation in the built environment!  
