@@ -3,14 +3,15 @@ layout: page
 title: Rui Li 李睿
 subtitle: ruili29 at student dot ubc dot ca
 ---
-I am a PhD student at [The University of British Columbia, Vancouver](https://www.ubc.ca/), affiliated with [SBE@UBC](https://sbelab.forestry.ubc.ca/) and under the supervision of Professor [Haibo Feng](https://forestry.ubc.ca/faculty-profile/haibo-feng/). I am also a student researcher at the [National Research Council of Canada](https://nrc.canada.ca/en), affiliated with the [Construction Research Centre](https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/construction-research-centre).
+I am a PhD student at [The University of British Columbia, Vancouver](https://www.ubc.ca/), affiliated with [SBE@UBC](https://sbelab.forestry.ubc.ca/) and under the supervision of Professor [Haibo Feng](https://forestry.ubc.ca/faculty-profile/haibo-feng/).  
 
 ### Research interest
 Leveraging machine learning techniques to achieve intelligent building **operation** and **construction**. For **operation**, I care about demand-responsive and occupant-centric control, building energy efficiency, and indoor environment quality. For **construction**, I pursue reinforcement learning and imitation learning-based construction robot control.
 ### Updates
+**Jan 2026** | I completed my one-year term at the NRC. Under the supervision of Dr. [Zhe Xiao](https://www.linkedin.com/in/zhe-xiao-phd-p-eng-1bbb9459/?originalSubdomain=ca), I conducted literature reviews on parameters for stochastic hygrothermal modeling, performed hygrothermal simulations on wall assemblies, and analyzed results across representative Canadian cities; research outcomes as the author of three journal papers are forthcoming.  
 **Apr 2025** | One paper "Large Language Model and Synthetic Dataset based Occupant Clothing Insulation Recognition" was accepted for presentation at [the joint CSCE/CRC 2025 Conference](https://csce-crc2025.com/).  
 **Apr 2025** | One paper "[Demand response based battery energy storage systems design and operation optimization](https://doi.org/10.1016/j.enbuild.2025.115738)" was accepted by [Energy and Buildings](https://www.sciencedirect.com/journal/energy-and-buildings).  
-**Jan 2025** | I was hired as a student researcher by the Construction Research Centre, the National Research Council of Canada.  
+**Jan 2025** | I was hired as a student researcher by the [Construction Research Centre](https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/construction-research-centre), [National Research Council of Canada](https://nrc.canada.ca/en).  
 **Dec 2024** | One paper "[How far back shall we peer? Optimal air handling unit control leveraging extensive past observations](https://doi.org/10.1016/j.buildenv.2024.112347)" was accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment).  
 **Sep 2024** | I was the recipient of the [President’s Academic Excellence Initiative PhD Award](https://www.grad.ubc.ca/awards/presidents-academic-excellence-initiative-phd-award) at UBC.  
 **Sep 2024** | I started my second PhD journey at UBC.  
