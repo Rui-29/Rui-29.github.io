@@ -3,7 +3,7 @@ layout: page
 title: Rui Li 李睿
 subtitle: ruili29 at student dot ubc dot ca
 ---
-I am a PhD student at [The University of British Columbia, Vancouver](https://www.ubc.ca/), affiliated with [SBE@UBC](https://sbelab.forestry.ubc.ca/) and under the supervision of Professor [Haibo Feng](https://forestry.ubc.ca/faculty-profile/haibo-feng/).  
+I am a PhD student at [The University of British Columbia, Vancouver](https://www.ubc.ca/), affiliated with [SBE@UBC](https://sbelab.forestry.ubc.ca/) and under the supervision of Professor [Haibo Feng](https://scholar.google.com/citations?user=AW4G-eEAAAAJ&hl=en).  
 
 ### Research interest
 Leveraging machine learning techniques to achieve intelligent building **operation** and **construction**. For **operation**, I care about demand-responsive and occupant-centric control, building energy efficiency, and indoor environment quality. For **construction**, I pursue reinforcement learning and imitation learning-based construction robot control.
