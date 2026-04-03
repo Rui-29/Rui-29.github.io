@@ -28,5 +28,5 @@ Leveraging machine learning techniques to achieve intelligent building **operati
 * **Sep 2019** - I was the recipient of [Korean National Scholarship Tier 1](https://www.kaist.ac.kr/en/html/edu/03100502.html) at KAIST.  
 * **Sep 2019** - I started my first PhD journey at [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/).  
 * **Sep 2018** - I started my [Master of Science in Civil and Architectural Engineering](https://www.cityu.edu.hk/pg/programme/p60) at [City University of Hong Kong](https://www.cityu.edu.hk/).  
-* **Jun 2018** - I earned my Bachelor of Science in Civil Engineering from [Beijing Jiaotong University](https://en.bjtu.edu.cn/).  
+* **Jun 2018** - I earned my Bachelor of Science in Civil Engineering from [Beijing Jiaotong University](https://www.shanghairanking.com/institution/beijing-jiaotong-university).  
 * **Jun 2014** - Graduated from [Urumqi No.1 High School](https://www.isacteach.com/top-600-high-schools-in-china/#:~:text=20,1%20High%20School), I achieved a top 1.17% ranking (1900 out of 162,600 examinees) in the 2014 [Gaokao](https://en.wikipedia.org/wiki/Gaokao) (Chinese National College Entrance Examination).  
