@@ -3,11 +3,12 @@ layout: page
 title: Rui Li 李睿
 subtitle: ruili29 at student dot ubc dot ca
 ---
-I am a PhD student at [The University of British Columbia, Vancouver](https://www.ubc.ca/), affiliated with [SBE@UBC](https://sbelab.forestry.ubc.ca/) and under the supervision of Professor [Haibo Feng](https://scholar.google.com/citations?user=AW4G-eEAAAAJ&hl=en).  
+I am a PhD candidate at [The University of British Columbia, Vancouver](https://www.ubc.ca/), affiliated with [SBE@UBC](https://sbelab.forestry.ubc.ca/) and under the supervision of Professor [Haibo Feng](https://scholar.google.com/citations?user=AW4G-eEAAAAJ&hl=en).  
 
 ### Research interest
 Leveraging machine learning techniques to achieve intelligent building **operation** and **construction**. For **operation**, I care about demand-responsive and occupant-centric control, building energy efficiency, and indoor environment quality. For **construction**, I pursue reinforcement learning and imitation learning-based construction robot control.
 ### Updates
+* **Jun 2026** - I have passed my [PhD Comprehensive Exam](https://www.grad.ubc.ca/policies/comprehensive-examination-candidacy), officially advancing to PhD Candidate at UBC.  
 * **Jun 2026** - One paper "[From Vision to Physics: Generative Occupant Modeling and 3D Spatial Data Architecture in Indoor Environments](https://doi.org/10.1016/j.enbuild.2026.117785)" was accepted by [Energy and Buildings](https://www.sciencedirect.com/journal/energy-and-buildings).  
 * **Feb 2026** - One paper "[Benchmarking zero-shot vision-language models against supervised learning for concurrent metabolic rate and clothing insulation estimation](https://doi.org/10.1016/j.buildenv.2026.114408)" was accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment).  
 * **Jan 2026** - I completed my one-year term at NRC. Under the supervision of Dr. [Zhe Xiao](https://www.linkedin.com/in/zhe-xiao-phd-p-eng-1bbb9459/?originalSubdomain=ca), I conducted literature reviews on parameters for stochastic hygrothermal modeling, performed hygrothermal simulations on wall assemblies, and analyzed results across representative Canadian cities. Research outcomes as the author of three journal papers are forthcoming.  
