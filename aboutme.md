@@ -8,7 +8,7 @@ I am a PhD candidate at [The University of British Columbia, Vancouver](https://
 ### Research interests
 Leveraging machine learning techniques to achieve intelligent building **operation** and **construction**. For **operation**, I care about demand-responsive and occupant-centric control, building energy efficiency, and indoor environment quality. For **construction**, I pursue reinforcement learning and imitation learning-based construction robot control.
 
-### Journey
+### Academic journey
 * **Jun 2026** - I have passed my [PhD Comprehensive Exam](https://www.grad.ubc.ca/policies/comprehensive-examination-candidacy), officially advancing to PhD Candidate at UBC.  
 * **Jun 2026** - One paper "[From Vision to Physics: Generative Occupant Modeling and 3D Spatial Data Architecture in Indoor Environments](https://doi.org/10.1016/j.enbuild.2026.117785)" was accepted by [Energy and Buildings](https://www.sciencedirect.com/journal/energy-and-buildings).  
 * **Feb 2026** - One paper "[Benchmarking zero-shot vision-language models against supervised learning for concurrent metabolic rate and clothing insulation estimation](https://doi.org/10.1016/j.buildenv.2026.114408)" was accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment).  
@@ -34,5 +34,5 @@ Leveraging machine learning techniques to achieve intelligent building **operati
 * **Jun 2018** - I earned my Bachelor of Science in Civil Engineering from [Beijing Jiaotong University](https://www.shanghairanking.com/institution/beijing-jiaotong-university).  
 * **Jun 2014** - Graduated from [Urumqi No.1 High School](https://www.isacteach.com/top-600-high-schools-in-china/#:~:text=20,1%20High%20School), I achieved a top 1.17% ranking (1900 out of 162,600 examinees) in the 2014 [Gaokao](https://en.wikipedia.org/wiki/Gaokao) (Chinese National College Entrance Examination).  
 
-### Beyond Research
+### Beyond research
 I enjoy learning languages and can hold daily conversations in both Korean and Japanese. I am passionate about music, films, and TV dramas, and I also enjoy singing, playing basketball, and staying active at the gym. Outside campus, I like traveling and discovering new restaurants around the city.
