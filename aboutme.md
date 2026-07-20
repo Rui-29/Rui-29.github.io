@@ -35,4 +35,4 @@ Leveraging machine learning techniques to achieve intelligent building **operati
 * **Jun 2014** - Graduated from [Urumqi No.1 High School](https://www.isacteach.com/top-600-high-schools-in-china/#:~:text=20,1%20High%20School), I achieved a top 1.17% ranking (1900 out of 162,600 examinees) in the 2014 [Gaokao](https://en.wikipedia.org/wiki/Gaokao) (Chinese National College Entrance Examination).  
 
 ### Beyond research
-I enjoy learning languages and can hold daily conversations in both Korean and Japanese. I am passionate about music, films, and TV dramas, and I also enjoy singing, playing basketball, and staying active at the gym. Outside campus, I like traveling and discovering new restaurants around the city.
+I enjoy learning languages and can hold daily conversations in both Korean and Japanese. I am passionate about music, films, and TV dramas, and I also enjoy singing, playing basketball, and staying active at the gym. Outside campus, I like traveling and discovering new restaurants/cafes around the city.
