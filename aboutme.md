@@ -31,7 +31,7 @@ Leveraging machine learning techniques to achieve intelligent building **operati
 * **Oct 2019** - I earned my MSc from CityUHK. Under the guidance of Professor [Hin Wa Li](https://scholars.cityu.edu.hk/en/persons/hin-wa-li(7b9b06ca-724b-4ec9-9429-bdf6b5d41c71).html), I completed my master's thesis titled "Towards Net-Zero Energy: Deep Learning-Based Energy Consumption Prediction and Photovoltaic Strategy Optimization for Subtropical School Buildings", achieving a grade of A-.  
 * **Sep 2019** - I was the recipient of [Korean National Scholarship Tier 1](https://www.kaist.ac.kr/en/html/edu/03100502.html) at KAIST.  
 * **Sep 2019** - I started my first PhD journey at [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/).  
-* **Sep 2018** - I started my [Master of Science in Civil and Architectural Engineering](https://www.cityu.edu.hk/pg/programme/p60) at [City University of Hong Kong](https://www.cityu.edu.hk/).  
+* **Sep 2018** - I started my [Master of Science in Civil and Architectural Engineering](https://www.cityu.edu.hk/catalogue/pg/202122/programme/MSCAE1.htm) at [City University of Hong Kong](https://www.cityu.edu.hk/).  
 * **Jun 2018** - I earned my Bachelor of Science in Civil Engineering from [Beijing Jiaotong University](https://www.shanghairanking.com/institution/beijing-jiaotong-university).  
 * **Jun 2014** - Graduated from [Urumqi No.1 High School](https://www.isacteach.com/top-600-high-schools-in-china/#:~:text=20,1%20High%20School), I achieved a top 1.17% ranking (1900 out of 162,600 examinees) in the 2014 [Gaokao](https://en.wikipedia.org/wiki/Gaokao) (Chinese National College Entrance Examination).  
 
